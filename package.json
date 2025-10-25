@@ -29,7 +29,7 @@
     "expect-puppeteer": "^5.0.4",
     "mocha": "^10.2.0",
     "prettier": "^1.19.1",
-    "puppeteer": "^10.4.0",
+    "puppeteer": "^24.26.1",
     "serve": "^11.3.2",
     "ts-loader": "^8.4.0",
     "ts-node": "^10.9.1",
